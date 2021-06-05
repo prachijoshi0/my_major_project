@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Sign In Form</title>
+          <style>
+                    body{
+                              margin: 0;
+                              padding: 0;
+                              display: flex;
+                              align-items: center;
+                              justify-content: center;
+                    }
+                    .container{
+                              box-shadow: sienna;
+                              border: 2px solid black;
+                              background-color: rgb(4, 130, 130);
+                              height: 100vh;
+                              width: 40%;
+                    
+                    }
+                    h1{
+                              text-align: center;
+
+                    }
+                    input[type=text], input[type=password]{
+          
+                  padding:25px;
+                  border: white;
+                  margin-top:4 px;
+                  padding-bottom:15px;
+                  padding-left: 10px;
+                  background-color: white;
+                  box-shadow:3px 3px #888;
+  }
+ input:focus{
+            outline: 0;
+            border-style: solid;
+            border-color:whitesmoke;
+            
+  }
+   form input{
+            width: 90%;
+            padding: 10px 10px;
+            margin-bottom: 20px;
+  }
+ form label{
+         padding-bottom: 5px; 
+        padding-right: 10px;
+        margin-right: 10px;
+        display: inline-block;
+        margin-bottom:5px ;
+        font-size: 20px;
+        font-weight: bold;
+
+ } 
+ 
+ span{
+        display: inline;
+        justify-content: right;
+        font-family: ;
+        font-size: 20px;
+        font-weight: lighter;
+ }
+ .check{
+           display:inline-flex;
+       
+           justify-content: right;
+           align-items: right;
+ }
+ form{
+           margin: 20px;
+           padding: auto;
+ }
+    
+.btn{
+       
+       padding: 13px 60px ;
+       margin: 20px;
+       width: 40%;
+       border-color: 2px solid rgb(94, 49, 49);
+       border-radius: 5px;
+       background-color: rgb(17, 128, 17);
+       color:white;
+       opacity: 9;
+       font-size: 15px;
+       font-weight: bold;
+       
+
+}  
+.btn1{
+       padding: 13px 60px ;
+       margin: 20px;
+       width: 40%;
+       border-color: 2px solid rgb(94, 49, 49);
+       border-radius: 5px;
+       background-color: rgb(238, 83, 0);
+       color:white;
+       opacity: 9;
+       font-size: 15px;
+       font-weight: bold;
+
+}  
+#a{
+       font-size: 20px;
+       font-weight: bold;
+       
+} 
+.rem{
+       display: block;
+       font-size: 20px;
+       font-weight: 900;
+}
+</style>
+</head>
+<body>
+          <div class="container">
+          <form  action="majorProject_2.html" target="_blank">
+                  
+                    <h1>Sign in form</h1>
+                    <hr>
+                    <label for="email"><b>Email</b></label>
+                    <br>
+             <input type="text" name="email" placeholder="Enter Email" required> 
+                    <br>
+                    <BR>      
+             <label for="paswd">Password</label>
+             <br>
+             <input type="password" name="paswd" placeholder="Enter password" required>
+                    <br>
+                    <BR>
+             <label for="paswd"> Confirm Password</label>
+             <br>
+             <input type="password" name="paswd" placeholder="Confirm password" required>
+                              <HR>
+            <div class="check">
+
+                   <input type="checkbox"> <span class="rem">Remember me</span>                          
+            </div>                            
+         <p id="a">By creating an account you agree to our</p>
+    
+                <button type="submit" class="btn">Sign in</button>
+
+          <button type="reset" class="btn1"> Reset</button>
+         
+          </form>
+          </div>
+</body>
+</html>
