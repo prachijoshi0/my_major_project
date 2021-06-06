@@ -4,7 +4,7 @@ using HTML,CSS and JavaScript.
 
 ![2021-05-30 (7)_page_1](https://user-images.githubusercontent.com/83748511/120935969-f0574a00-c722-11eb-8ace-8100260312db.png)
 ![Screenshot_2021-06-07-00-09-17-953_com google android apps photos](https://user-images.githubusercontent.com/83748511/120936312-ce5ec700-c724-11eb-850f-ad8b31014fe4.jpg)
-![2021-05-30 (1)_page_2](https://user-images.githubusercontent.com/83748511/120935876-70c97b00-c722-11eb-8ffe-79efcd350c9c.png)
+
 
 ![2021-05-30 (2)_page_3](https://user-images.githubusercontent.com/83748511/120936015-475d1f00-c723-11eb-9a3a-e61cbb99f5bd.png)
 
