@@ -10,4 +10,4 @@ using HTML,CSS and JavaScript.
 
 ![2021-05-30 (3)_page_4](https://user-images.githubusercontent.com/83748511/120936065-8b502400-c723-11eb-8c41-ed578fb3533a.png)
 ![2021-05-30 (4)_page_5](https://user-images.githubusercontent.com/83748511/120936093-b9cdff00-c723-11eb-968f-3b6fb7eeee56.png)
-![2021-05-30 (4)_page_5](https://user-images.githubusercontent.com/83748511/120936136-e84bda00-c723-11eb-8f72-de1355667da4.png)
+![2021-05-30 (5)_page_6](https://user-images.githubusercontent.com/83748511/120936174-14675b00-c724-11eb-87e8-c3a64aab8edf.png)
