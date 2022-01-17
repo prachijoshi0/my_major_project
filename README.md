@@ -1,6 +1,6 @@
-# my_major_project
+
 # Portfolio Website 
-using HTML,CSS and JavaScript.
+ By using HTML,CSS and JavaScript.
 
 ![2021-05-30 (7)_page_1](https://user-images.githubusercontent.com/83748511/120935969-f0574a00-c722-11eb-8ace-8100260312db.png)
 ![Screenshot_2021-06-07-00-09-17-953_com google android apps photos](https://user-images.githubusercontent.com/83748511/120936312-ce5ec700-c724-11eb-850f-ad8b31014fe4.jpg)
